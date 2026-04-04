@@ -23,7 +23,7 @@ I am a results-driven **Backend and Automation Engineer** focused on designing e
 - ⚙️ **Specialization:** Advanced application development with **C#** and **.NET** frameworks.
 - 🧪 **Expertise:** Comprehensive test automation using **Selenium** and **xUnit** to ensure software reliability.
 - 🔬 **Curiosities:** Deep systems engineering in **C** and secure networking analysis, including practical experience with **TOR**.
-- 🎬 **Integrated Creativity:** When I'm not in a terminal, I'm executing creative ideas through videography and photo editing (Lightroom/Canva), capturing cinematic travel edits and creative visual narratives
+- 🎬 **Integrated Creativity:** When I'm not in a terminal, I'm executing creative ideas through videography and photo editing, capturing cinematic travel edits and creative visual narratives
 ([catch my reels here](https://instagram.com/lucky._.prasad/reels/)).
 
 ---
