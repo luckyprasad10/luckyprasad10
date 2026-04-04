@@ -18,12 +18,9 @@
 
 ### 🌐 My Digital Ecosystem
 
-I am a results-driven **Backend and Automation Engineer** focused on designing efficient, maintainable systems and automated workflows.
+I'm a **Backend Intern & Tech Enthusiast** driven by an obsession with how things work behind the scenes. I love consuming new technologies and exploring the unconventional, hidden corners of the internet that most people don't even know exist. 
 
-- ⚙️ **Specialization:** Advanced application development with **C#** and **.NET** frameworks.
-- 🧪 **Expertise:** Comprehensive test automation using **Selenium** and **xUnit** to ensure software reliability.
-- 🔬 **Curiosities:** Deep systems engineering in **C** and secure networking analysis, including practical experience with **TOR**.
-- 🎬 **Integrated Creativity:** When I'm not in a terminal, I'm executing creative ideas through videography and photo editing, capturing cinematic travel edits and creative visual narratives
+- 🎬 **Beyond the Terminal:** When I'm not in a terminal, I'm executing creative ideas through videography and photo editing, capturing cinematic travel edits and creative visual narratives
 ([catch my edits](https://instagram.com/lucky._.prasad/reels/)).
 
 ---
