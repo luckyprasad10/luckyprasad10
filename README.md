@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7FDBFF&center=true&vCenter=true&width=800&lines=Initializing+System...;Hi,+I'm+Lucky+🧑‍💻;Backend+%26+Automation+Engineer;C#,+Python,+%26+.NET+Stack;Creative+Technologist" alt="Typing SVG" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckyprasad10&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7FDBFF&center=true&vCenter=true&width=800&lines=Initializing+System...;Hi,+I'm+Lucky+🧑‍💻;Backend+Intern;Tech+Enthusiast;Creative+Visuals" alt="Typing SVG" />
 
 <br>
 
@@ -20,8 +16,7 @@
 
 I'm a **Backend Intern & Tech Enthusiast** driven by an obsession with how things work behind the scenes. I love consuming new technologies and exploring the unconventional, hidden corners of the internet that most people don't even know exist. 
 
-- 🎬 **Beyond the Terminal:** When I'm not in a terminal, I'm executing creative ideas through videography and photo editing, capturing cinematic travel edits and creative visual narratives
-([catch my edits](https://instagram.com/lucky._.prasad/reels/)).
+🎬 **Beyond the Terminal:** When I'm not in a terminal, I'm executing creative ideas through videography and photo editing, capturing cinematic travel edits and creative visual narratives ([catch my edits](https://instagram.com/lucky._.prasad/reels/)).
 
 ---
 
@@ -41,17 +36,13 @@ I'm a **Backend Intern & Tech Enthusiast** driven by an obsession with how thing
 
 <div align="center">
   
-**Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+**Languages & Frameworks**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-**Backend & Frameworks**
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 
-**Infrastructure & Hardware**
+**Databases & Infrastructure**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -62,18 +53,6 @@ I'm a **Backend Intern & Tech Enthusiast** driven by an obsession with how thing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub System Telemetry
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=luckyprasad10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyprasad10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
